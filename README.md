@@ -1,2 +1,3 @@
 # .NET6_User_Authentication
-A project that that demonstrate user authentication process end to end.
+This project demonstrates user authentication process end to end.
+Login, validation, authentication, jwt token generation and response.
